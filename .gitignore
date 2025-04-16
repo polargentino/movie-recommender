@@ -1,0 +1,42 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+VENV/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Archivos de logs
+*.log
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de bases de datos temporales
+*.sqlite3
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Carpetas de pruebas (si las tenés)
+tests/__pycache__/
+
+# Ignorar archivos .csv en cualquier directorio
+*.csv
+
+# Ignorar archivos .zip en cualquier directorio
+*.zip
