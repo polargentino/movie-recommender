@@ -37,6 +37,7 @@ tests/__pycache__/
 
 # Ignorar archivos .csv en cualquier directorio
 *.csv
+!ml-latest-small/*.csv  # Excepción para los CSV dentro de ml-latest-small/
 
 # Ignorar archivos .zip en cualquier directorio
 *.zip

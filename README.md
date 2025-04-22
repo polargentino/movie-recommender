@@ -126,3 +126,12 @@ Deberías ver recomendaciones como "The Notebook (2004)" (Romance, Drama).
 
 # Caso límite: Ingresa una película con géneros poco comunes, como "Alien" (Horror, Sci-Fi).
 Deberías ver recomendaciones como "Aliens (1986)" o "Terminator, The (1984)" (Sci-Fi).
+
+## ## Enlace a la aplicación en vivo
+Prueba la aplicación en Streamlit Community Cloud: [https://polargentino-movie-recommender-main.streamlit.app](https://polargentino-movie-recommender-main.streamlit.app)
+
+## Características
+- Recomendaciones de películas basadas en correlación de calificaciones y géneros.
+- Visualización interactiva de recomendaciones:
+  - **Gráfico 3D**: Muestra las películas recomendadas en un espacio tridimensional basado en correlación, usuarios en común e índice de género.
+  - **Gráfico de red**: Representa las relaciones entre la película seleccionada y las recomendaciones, con colores que indican la fuerza de la correlación.
