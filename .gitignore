@@ -41,3 +41,4 @@ tests/__pycache__/
 
 # Ignorar archivos .zip en cualquier directorio
 *.zip
+ml-latest-small/movie_correlation.pkl
