@@ -128,7 +128,7 @@ Deberías ver recomendaciones como "The Notebook (2004)" (Romance, Drama).
 Deberías ver recomendaciones como "Aliens (1986)" o "Terminator, The (1984)" (Sci-Fi).
 
 ## ## Enlace a la aplicación en vivo
-Prueba la aplicación en Streamlit Community Cloud: [https://movie-recommender-pol-monsalvo.streamlit.app/]()
+Prueba la aplicación en Streamlit Community Cloud: [https://movie-recommender-pol-monsalvo.streamlit.app/](monsalvo)
 
 ## Características
 - Recomendaciones de películas basadas en correlación de calificaciones y géneros.
